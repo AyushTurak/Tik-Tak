@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(38, 38, 110);
+    color: aliceblue;
+}
+
+.boxes{
+    height: 80px;
+    width: 80px;
+    background-color: blue;
+    display: inline-block;
+    margin:5px;
+}
+.board{
+    height: max-content;
+    width: max-content;
+    margin: auto;
+ 
+}
